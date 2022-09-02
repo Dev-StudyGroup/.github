@@ -1,5 +1,5 @@
 # Dev-StudyGroup
----
+
 ## Algorithm 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Dev-StudyGroup/Algorithm)
@@ -10,5 +10,5 @@ Member
 ---
 * [Donghak Park](https://github.com/DonghakPark)
 
----
+
 
