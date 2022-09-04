@@ -8,6 +8,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/Dev-StudyGroup/Algorithm)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Dev-StudyGroup/Algorithm)
 
+💯[Let's go To Algo Repo](https://github.com/Dev-StudyGroup/Algorithm)💯
+
 Member
 ---
 * [박동학](https://github.com/DonghakPark)
