@@ -1,5 +1,7 @@
 # Dev-StudyGroup
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDev-StudyGroup&count_bg=%235B5A59&title_bg=%23716A6A&icon=github.svg&icon_color=%23000000&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Algorithm 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Dev-StudyGroup/Algorithm)
