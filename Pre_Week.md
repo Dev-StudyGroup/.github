@@ -1,4 +1,5 @@
 ## ❗사전 준비 ❗
+***하다가 모르는 부분있으시면 언제든지 편하게 연락주세요. 또는 ISSUE에 남겨주셔도 됩니다.***
 - 📌1. Python 기본익히기
   - 이번 스터디의 코딩테스트 준비는 파이썬으로 진행할 예정입니다. (문제풀이는 원하시는 언어로 풀이하셔도 상관없습니다.)
   - 파이썬을 모르신다면 아래 링크에서 학습해 주시기 바랍니다. (직관적인 언어라 빠르게 익힐 수 있습니다.)
@@ -17,7 +18,9 @@
 - 📌3. 몸풀기 (Solved.ac Class 1수준 문제풀기)
   - Solved.ac는 백준의 문제를 난이도별로 분류해주는 사이트입니다. 
   - 여기서 Class1은 기초적인 수준의 문제이므로 시작전에 풀어주세요. (이번 Class를 통해서 입출력에 익숙해 지길 바랍니다.)
-  - 👉[문제풀러가기](https://github.com/Dev-StudyGroup/Algorithm/blob/main/Week_1/README.md)
+  - 👉[문제풀러가기](https://github.com/Dev-StudyGroup/Algorithm/blob/main/Week_0/README.md)
+  - ❗**아래의 가이드를 따라 해주세요**
+  - ❗**문제 풀이시 저장은 /week_0/{본인이름}/{문제번호 또는 문제이름} 으로 해주세요.**
   - 문제리스트에 있는 markdown template을 이용해서 Issue를 생성해 주세요.
   - 👉 상단의 Issue 탭을 눌러 New issue를 클릭한다.
   - 👉 복사한 Template를 붙여넣는다.
