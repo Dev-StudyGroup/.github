@@ -49,3 +49,4 @@
 ## 2. Tutoring 자료
 
 👉👉[1주차 취업준비 개요 & git 사용법](https://github.com/Dev-StudyGroup/Tutoring/blob/main/1.Introduction%26git.pdf)
+👉👉[2주차 코딩테스트 준비](https://github.com/Dev-StudyGroup/Tutoring/blob/main/2.Coding%20Test.pdf)
