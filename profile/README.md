@@ -52,3 +52,4 @@
 👉👉[1주차 취업준비 개요 & git 사용법](https://github.com/Dev-StudyGroup/Tutoring/blob/main/1.Introduction%26git.pdf)  
 👉👉[2주차 코딩테스트 준비](https://github.com/Dev-StudyGroup/Tutoring/blob/main/2.Coding%20Test.pdf)  
 👉👉3주차 카카오 코딩테스트 해설 & 트리 설명 --> 파일은 따로 업로드 하지 않겠습니다.
+👉👉4주차 기업별 특징 설명 & 클린 코딩 by 민혁 --> 파일은 따로 업로드 하지 않겠습니다.
