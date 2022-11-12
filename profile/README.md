@@ -55,4 +55,5 @@
 👉👉3주차 기업별 특징 설명 & 클린 코딩 by 민혁 --> 파일은 따로 업로드 하지 않겠습니다.  
 👉👉[4주차 문제풀이&Union Find&위상정렬](https://github.com/Dev-StudyGroup/Tutoring/blob/main/4.%20union%20find%2C%20%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC.pptx)  
 👉👉[5주차 문제풀이&그리디, 백트래킹 & 면접 준비](https://github.com/Dev-StudyGroup/Tutoring/blob/main/5-1.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20-%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)  
-👉👉[6주차 문제풀이&운영체제](https://github.com/Dev-StudyGroup/Tutoring/blob/main/6.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%2C%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.pdf)
+👉👉[6주차 문제풀이&운영체제](https://github.com/Dev-StudyGroup/Tutoring/blob/main/6.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%2C%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.pdf)  
+👉👉[7주차 문제풀이&네트워크](https://github.com/Dev-StudyGroup/Tutoring/blob/main/7.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%2C%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%2C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20-%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
