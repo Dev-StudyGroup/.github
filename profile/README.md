@@ -13,7 +13,7 @@
 
 ## 0. 사전 준비
 
-#### 👉[준비하러 가기](https://github.com/Dev-StudyGroup/.github/blob/main/Pre_Week.md)👈
+### 👉[준비하러 가기](https://github.com/Dev-StudyGroup/.github/blob/main/Pre_Week.md)👈
 
 ## 1. Algorithm 
 
@@ -21,7 +21,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/Dev-StudyGroup/Algorithm)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Dev-StudyGroup/Algorithm)
 
-#### 💯👉[Let's go To Algo Repo](https://github.com/Dev-StudyGroup/Algorithm)👈💯
+### 💯👉[Let's go To Algo Repo](https://github.com/Dev-StudyGroup/Algorithm)👈💯
 
 ## 2. Tutoring 자료
 : 링킹되어 있지 않는 주차는 따로 자료를 제공하지 않습니다.
@@ -38,7 +38,7 @@
 👉👉[9주차 ML, MLOps & 알고리즘](https://github.com/Dev-StudyGroup/Tutoring/blob/main/9.%20%EB%B6%84%EC%84%9D%2C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf)  
 👉👉10주차 Java 가비지컬렉터, RDB  
 
-### ✅과제 진행현황✅
+## 3. 과제 진행현황
 
 |    Name    | ~~Pre~~ | ~~W1~~ | ~~W2~~ | ~~W3~~ | ~~W4~~ | ~~W5~~ | ~~W6~~ | ~~W7~~ |  ~~W8~~   |  ~~W9~~   |  ~~W10~~  |
 | :--------: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :---: | :---: | :---: |
